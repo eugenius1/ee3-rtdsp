@@ -17,4 +17,4 @@ Objectives accomplished:
 Objectives accomplished:
 * Implemented triple buffering: *in*, *processing*, and *out* buffers.
 * Implemented various noise estimation and noise reduction techniques,
-* Compared their performance and chose parameters that produced the best audible speech enhancement.
+* Compared their performance and chose parameters that produced the best audible speech enhancement ([PDF](/speech-enhancement/EusebiusN_And_PrahnavS_RTDSP_Project.pdf)).
