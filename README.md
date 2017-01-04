@@ -8,6 +8,8 @@ Objectives accomplished:
 * Implemented the IIR filter using the C6713 DSK system in real-time.
 * Measured the filter characteristics using a spectrum analyzer.
 
+[Lab 5 Report](https://github.com/eugenius1/ee3-rtdsp/blob/master/lab5-iir/EusebiusN_And_PrahnavS_RTDSP_Lab5.pdf).
+
 ## Project: Speech Enhancement through noise reduction
 
 > Telephones are increasingly being used in noisy environments such as cars, airports and undergraduate laboratories! The aim of this project is to implement a real-time system that will reduce the background noise in a speech signal while leaving the signal itself intact: this process is called speech enhancement.
@@ -17,4 +19,6 @@ Objectives accomplished:
 Objectives accomplished:
 * Implemented triple buffering: *in*, *processing*, and *out* buffers.
 * Implemented various noise estimation and noise reduction techniques,
-* Compared their performance and chose parameters that produced the best audible speech enhancement ([PDF](/speech-enhancement/EusebiusN_And_PrahnavS_RTDSP_Project.pdf)).
+* Compared their performance and chose parameters that produced the best audible speech enhancement.
+
+[Final Report](/speech-enhancement/EusebiusN_And_PrahnavS_RTDSP_Project.pdf).
